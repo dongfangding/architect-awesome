@@ -438,6 +438,7 @@ Hbase、LevelDB、Tair（Long DB）、nessDB 采用 LSM 树的结构。LSM可以
 
 经常用于大规模数据的排重检查。
 
+* [bit-map算法原理] (https://www.cnblogs.com/myseries/p/10880641.html)
 * [《Java Bitset类》](http://www.runoob.com/java/java-bitset-class.html)
 * [《Java BitSet（位集）》](https://blog.csdn.net/caiandyong/article/details/51581160)
 
